@@ -31,5 +31,8 @@
     "react-dom": "18.2.0",
     "simplebar": "^6.2.5",
     "typescript": "5.1.6"
+  },
+  "devDependencies": {
+    "sass": "^1.64.2"
   }
 }
